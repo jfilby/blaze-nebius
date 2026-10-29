@@ -3,8 +3,8 @@
 ## Install
 
 ```
-git clone git@github.com:jfilby/blaze.git
-cd blaze/src/compiler
+git clone git@github.com:jfilby/blaze-nebius.git
+cd blaze-nebius/src/compiler
 npm install
 npm link          # optional: puts `blaze` on your PATH
 ```
